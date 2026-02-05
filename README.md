@@ -31,25 +31,25 @@
 # ⚠️🚧🛠️ STILL IN PROGRESS!!! 
 
 ## {QA Portfolio} 
- ---
 ### 👋 Hi there, I'm Petra! 
 
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
+--- 
 
 ## Resume
 
-<p> **You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience. The CV is written in both Croatian and English.
-**</p>
-- <a href="https://drive.google.com/file/d/1J8OhayMeQCMhbuyn-t1cPdnog6BTUOX7/view?usp=sharing"> Resume </li>
+<p> You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience. The CV is written in both Croatian and English.
+</p> <a href="https://drive.google.com/file/d/1J8OhayMeQCMhbuyn-t1cPdnog6BTUOX7/view?usp=sharing"> Resume </li>
 
-**My Linkedin profile:** https://www.linkedin.com/in/petra-jakopovic/ 
+**My Linkedin profile:** 
+https://www.linkedin.com/in/petra-jakopovic/ 
 <ul dir="auto">
 <li><a href="https://www.linkedin.com/in/petra-jakopovic/ "> Linkedin </li>
 </ul>
 
-
+--- 
 <div align="center">
-## Skills
+<h2> Skills </h2> 
 
 ![Cypress](https://img.shields.io/badge/-Cypress-222222?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-222222?style=for-the-badge&logo=playwright&logoColor=white)
@@ -79,9 +79,9 @@
  ---
 
 ## My experience
-Being a junior software tester at KING ICT is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. 
+<p>Being a junior software tester at KING ICT is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. 
 <br>
-I’m a QA engineer with over 1+ years of experience testing web and mobile apps. I like breaking things (in a good way), figuring out why they’re broken, and working with teams to make them better. I’ve done a bit of everything — from functional, automated, and performance testing to building out test strategies and frameworks. I enjoy turning requirements into clear test plans and finding the issues that really matter before users ever see them. At the end of the day, I care about quality and I enjoy learning new tools and approaches to keep improving how I work.
+I’m a QA engineer with over 1+ years of experience testing web and mobile apps. I like breaking things (in a good way), figuring out why they’re broken, and working with teams to make them better. I’ve done a bit of everything — from functional, automated, and performance testing to building out test strategies and frameworks. I enjoy turning requirements into clear test plans and finding the issues that really matter before users ever see them. At the end of the day, I care about quality and I enjoy learning new tools and approaches to keep improving how I work. </p>
  ---
 ## Tools 
 - Jira, Trello - project management
