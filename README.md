@@ -1,17 +1,33 @@
 <!--
-                                                                                                                                                                                                       
-88888888ba                                   88              88              d8'           88                                                                                                          
-88      "8b               ,d                 ""              ""             d8'            88                                                                                                          
-88      ,8P               88                                               ""              88                                                                                                          
-88aaaaaa8P'  ,adPPYba,  MM88MMM  8b,dPPYba,  88   ,adPPYba,  88  ,adPPYYba,  ,adPPYba,     88,dPPYba,    ,adPPYba,   88,dPYba,,adPYba,    ,adPPYba,  8b,dPPYba,   ,adPPYYba,   ,adPPYb,d8   ,adPPYba,  
-88""""""'   a8P_____88    88     88P'   "Y8  88  a8"     ""  88  ""     `Y8  I8[    ""     88P'    "8a  a8"     "8a  88P'   "88"    "8a  a8P_____88  88P'    "8a  ""     `Y8  a8"    `Y88  a8P_____88  
-88          8PP"""""""    88     88          88  8b          88  ,adPPPPP88   `"Y8ba,      88       88  8b       d8  88      88      88  8PP"""""""  88       d8  ,adPPPPP88  8b       88  8PP"""""""  
-88          "8b,   ,aa    88,    88          88  "8a,   ,aa  88  88,    ,88  aa    ]8I     88       88  "8a,   ,a8"  88      88      88  "8b,   ,aa  88b,   ,a8"  88,    ,88  "8a,   ,d88  "8b,   ,aa  
-88           `"Ybbd8"'    "Y888  88          88   `"Ybbd8"'  88  `"8bbdP"Y8  `"YbbdP"'     88       88   `"YbbdP"'   88      88      88   `"Ybbd8"'  88`YbbdP"'   `"8bbdP"Y8   `"YbbdP"Y8   `"Ybbd8"'  
-                                                                                                                                                     88                        aa,    ,88              
-                                                                                                                                                     88                         "Y8bbdP"              
--->
+                                                                                                                
+88888888ba                                    88              88              d8'            88                                                                                 
+88      "8b                ,d                 ""              ""             d8'             88                                                                                 
+88      ,8P                88                                                ""              88                                                                                 
+88aaaaaa8P'  ,adPPYba,  MM88MMM  8b,dPPYba,  88   ,adPPYba,  88  ,adPPYYba,  ,adPPYba,      88,dPPYba,    ,adPPYba,   88,dPYba,,adPYba,    ,adPPYba,  8b,dPPYba,   ,adPPYYba,   ,adPPYb,d8   ,adPPYba,  
+88""""""'   a8P_____88    88     88P'   "Y8  88  a8"     ""  88  ""      `Y8  I8[    ""      88P'    "8a  a8"     "8a  88P'   "88"    "8a  a8P_____88  88P'    "8a  ""      `Y8  a8"    `Y88  a8P_____88  
+88          8PP"""""""    88     88          88  8b          88  ,adPPPPP88   `"Y8ba,       88        88  8b       d8  88      88      88  8PP"""""""  88       d8  ,adPPPPP88  8b       88  8PP"""""""  
+88          "8b,   ,aa    88,    88          88  "8a,   ,aa  88  88,    ,88  aa    ]8I      88        88  "8a,   ,a8"  88      88      88  "8b,   ,aa  88b,   ,a8"  88,    ,88  "8a,   ,d88  "8b,   ,aa  
+88           `"Ybbd8"'    "Y888  88          88   `"Ybbd8"'  88  `"8bbdP"Y8  `"YbbdP"'      88        88   `"YbbdP"'   88      88      88   `"Ybbd8"'  88`YbbdP"'   `"8bbdP"Y8   `"YbbdP"Y8   `"Ybbd8"'  
+                                                                                                                                                       88                        aa,    ,88             
+                                                                                                                                                       88                         "Y8bbdP"
+--> 
+```text
+  ______           ___                                                                     
+ /  __  \         /   \                                                                    
+|  |  |  |       /  ^  \                                                                   
+|  |  |  |      /  /_\  \                                                                  
+|  `--'  '--.  /  _____  \                                                                 
+ \_____\_____\/__/     \__\                                                                
+                                                                                           
+.______     ______   .______     .___________. _______   ______    __       __    ______   
+|   _  \   /  __  \  |   _  \    |           ||   ____| /  __  \  |  |     |  |  /  __  \  
+|  |_)  | |  |  |  | |  |_)  |   `---|  |----`|  |__   |  |  |  | |  |     |  | |  |  |  | 
+|   ___/  |  |  |  | |      /        |  |     |   __|  |  |  |  | |  |     |  | |  |  |  | 
+|  |      |  `--'  | |  |\  \----.   |  |     |  |     |  `--'  | |  `----.|  | |  `--'  | 
+| _|       \______/  | _| `._____|   |__|     |__|      \______/  |_______||__|  \______/  
+                                                                                           
 
+```
 
 # QA-Portfolio
 
@@ -19,15 +35,15 @@
 <p> Hi, my name is Petra. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area. 
 <br>
 
-** My Linkedin profile **
+## My Linkedin profile 
 
 
-** My experience ** 
+## My experience
 Being a junior software tester at KING ICT is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. 
 <br>
 I’m a QA engineer with over 1+ years of experience testing web and mobile apps. I like breaking things (in a good way), figuring out why they’re broken, and working with teams to make them better. I’ve done a bit of everything — from functional, automated, and performance testing to building out test strategies and frameworks. I enjoy turning requirements into clear test plans and finding the issues that really matter before users ever see them. At the end of the day, I care about quality and I enjoy learning new tools and approaches to keep improving how I work.
 
-** Tools **
+## Tools 
 - Jira, Trello - project management
 - Confluence - storing informations and documents about project
 - qTest - bug tracking
@@ -50,7 +66,7 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 
   ---
 
-** Tech skills **
+## Tech skills 
 - SQL
 - Rest API testing
 - ISTQB Foundation Level knowledge
@@ -67,7 +83,7 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 - Testing UAT
 - Scrum workflow
 
-** Soft skills 📁 **
+## Soft skills 📁 
 - precision
 - communication
 - assertiveness
