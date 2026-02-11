@@ -37,7 +37,7 @@
 --- 
 
 ## Resume
-
+<!-- 
 <p> You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience. The CV is written in both Croatian and English.
 </p> <a href="https://drive.google.com/file/d/1J8OhayMeQCMhbuyn-t1cPdnog6BTUOX7/view?usp=sharing"> Resume </li>
 
@@ -131,7 +131,7 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 - empathy
 
 
-<!--
+
 Courses 📓
 QA Training + PORTFOLIO
 DareIT Challenge - automated tests + Python PORTFOLIO
@@ -142,7 +142,7 @@ CherryIT COLT 2/2023 - Git - PORTFOLIO
 Fundamentals of manual software testing
 SQL training in 120 minutes
 Postman - REST API testing
--->
+
 
 
 
@@ -179,7 +179,7 @@ Postman - REST API testing
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-222222?style=for-the-badge&logo=html5&logoColor=white)
 
-<!--
+
 Napraviti ovako nešto po ovom uzoru...
 
 https://github.com/bennhub/ai-qa-test-buddy?tab=readme-ov-file 
