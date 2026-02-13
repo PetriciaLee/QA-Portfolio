@@ -47,6 +47,113 @@ https://www.linkedin.com/in/petra-jakopovic/
 <li><a href="https://www.linkedin.com/in/petra-jakopovic/ "> Linkedin </li>
 </ul>
 
+
+Što uključiti u QA Portfolio?
+Umjesto samo koda, dodaj ove odjeljke:
+
+Test Plan: Kratki dokument (može biti PDF ili tekst) o tome što je bio plan testiranja.
+
+Bug Reports: Link na dokument ili tablicu gdje se vidi kako prijavljuješ greške (Summary, Steps to reproduce, Expected/Actual result).
+
+Test Cases: Pokaži da znaš napisati jasne korake za testiranje.
+
+Alati koje koristiš: npr. Jira, Postman, Selenium, Cypress, ili jednostavno "Manual Testing".
+
+
+Gemini said
+Hej Petra! Prvo, duboko udahni—sasvim je normalno osjećati se izgubljeno na GitHubu na početku. On je dizajniran za programere, pa QA stručnjaci često imaju osjećaj da tu ne pripadaju, ali zapravo je GitHub savršeno mjesto za tvoj portfolio.
+
+Evo konkretnih smjernica kako da od amaterke postaneš netko tko izgleda profesionalno i organizirano.
+
+1. Trebaš li mijenjati ime (Username)?
+Kratak odgovor: Ne moraš, ali možeš.
+
+PetriciaLee zvuči sasvim u redu i profesionalno. Na GitHubu ljudi često koriste pseudonime ili kombinacije imena.
+
+Što je važnije: U postavkama profila (Settings -> Public profile) podesi svoje pravo ime (Name): Petra [Prezime]. Tako će te regruteri naći po imenu, bez obzira na to što ti u URL-u piše PetriciaLee.
+
+Savjet: Ako se odlučiš na promjenu (npr. u petra-prezime), GitHub će automatski preusmjeriti tvoje stare poveznice, ali je ipak lakše to napraviti odmah dok još nemaš puno projekata.
+
+2. GitHub osnove (za preživljavanje)
+Ne moraš biti majstor terminala da bi koristila GitHub. Za početak, možeš sve raditi preko njihove web stranice (upload datoteka), ali nauči ove tri riječi:
+
+Repository (Repo): To je kao "folder" za tvoj projekt.
+
+Commit: To je "Save" tipka, ali s porukom što si promijenila.
+
+README.md: To je naslovna stranica tvog projekta koju svi vide.
+
+3. Kako napisati ubojiti QA README?
+Regruteri ne žele vidjeti samo kod; oni žele vidjeti kako razmišljaš. Tvoj README bi trebao biti struktuiran ovako:
+
+Naslov projekta (npr. "Manual & Automation Testing - E-commerce App")
+Kratak opis: Što si testirala i zašto?
+
+Što uključiti u QA Portfolio?
+Umjesto samo koda, dodaj ove odjeljke:
+
+Test Plan: Kratki dokument (može biti PDF ili tekst) o tome što je bio plan testiranja.
+
+Bug Reports: Link na dokument ili tablicu gdje se vidi kako prijavljuješ greške (Summary, Steps to reproduce, Expected/Actual result).
+
+Test Cases: Pokaži da znaš napisati jasne korake za testiranje.
+
+Alati koje koristiš: npr. Jira, Postman, Selenium, Cypress, ili jednostavno "Manual Testing".
+
+4. Tvoj osobni README (Profile README)
+Znaš li da možeš imati README koji stoji na tvojoj naslovnoj stranici GitHuba?
+
+Napravi novi repozitorij koji se zove identično kao tvoj username (dakle: PetriciaLee).
+
+U njega stavi README.md datoteku.
+
+Tu napiši: "Bok, ja sam Petra, QA entuzijastica. Trenutno učim [to i to], fokusirana sam na [Manual/Auto] testing."
+
+5. Gdje još možeš staviti portfolio?
+Ako ti je GitHub previše kompliciran za početak, QA portfolio se često drži i na:
+
+Google Drive / Notion: Napraviš uredne foldere s Test Planovima i Bug Reportima i podijeliš link (samo pazi na dozvole pristupa).
+
+LinkedIn: Objavi svoje certifikate ili kratke "case studies" o tome kako si pronašla bug na nekoj popularnoj stranici.
+
+Moj savjet za prvi korak:
+Nemoj se brinuti oko koda. Napravi jedan repozitorij, nazovi ga "Manual-Testing-Projects", i unutra uploadeaj jedan Bug Report koji si sama napisala za neku web stranicu (npr. njuškalo ili neku vježbaonicu).
+💡 Kako to "napuniti" ako su ti repozitoriji još prazni?
+Evo 3 brza koraka za "amaterski" početak koji izgleda pro:
+
+Bug Report PDF: Odaberi bilo koju aplikaciju na mobitelu koja te živcira. Pronađi 3 buga. Dokumentiraj ih (naslov, koraci, screenshot s označenom greškom, očekivani rezultat). Stavi taj PDF u novi repo pod nazivom Manual-QA-Portfolio.
+
+Mind Map: Napravi mapu (npr. u alatu XMind ili Miro) kako bi testirala neku stranicu (npr. Login ekran). Exportaj kao sliku i stavi u README. To pokazuje kako razmišljaš.
+
+Checklist: Napravi jednostavnu tablicu u Markdownu: "Što sve provjeriti kod Search bara"
+
+📂 Featured Projects
+🔍 Manual Testing: E-commerce Web App
+Sveobuhvatno manualno testiranje demo trgovine fokusirano na kritične korisničke procese.
+
+Što sam radila: Izrada Test Plana, pisanje Test Caseova, Exploratory testing.
+
+Dokumentacija: Unutar repozitorija možeš pronaći Bug Reports i Final Test Report.
+
+Alati: Jira (za tickete), Google Sheets (za matricu sljedivosti).
+
+🤖 Test Automation: My First Framework
+Moj napredak u automatizaciji — framework građen od nule.
+
+Tehnologije: Selenium WebDriver + Java (ili Python/Playwright, ovisno što učiš).
+
+Fokus: Automatizacija Login funkcionalnosti i Checkout procesa.
+
+Cilj: Smanjenje vremena regresijskog testiranja za 30%.
+
+🌐 API Testing with Postman
+Testiranje REST API-ja za javno dostupne servise.
+
+Što je testirano: GET, POST, PUT i DELETE metode.
+
+Posebnost: Napisane automatske skripte (Tests tab u Postmanu) za provjeru statusnih kodova i JSON response sheme.
+
+
 --- 
 <div align="center">
 <h2> Skills </h2> 
@@ -74,7 +181,7 @@ https://www.linkedin.com/in/petra-jakopovic/
 
 </div>
 ### About me ###
-<p> Hi, my name is Petra. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area. 
+<p> Hi, my name is Petra, QA enthusiast. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area. 
 <br>
  ---
 
@@ -196,6 +303,75 @@ https://musicforprogramming.net/latest/
 ✅ Make more testing <br>
 ✅ Learn automatization testing <br>
 ✅ Learn to use Maven and Plawright <br>
+
+<!--
+napravi "dummy" projekte na javnim stranicama (npr. SauceDemo, OpenCart ili čak Njuškalo).
+
+
+# Hi, I'm Petra! 👋
+**Junior QA Engineer @ KING ICT**
+
+I’m a QA enthusiast dedicated to making the digital world more welcoming and high-quality. With over a year of professional experience in testing web and mobile apps, I bridge the gap between user needs and technical excellence.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Testing:** Manual (Functional, Regression, UI/UX), API Testing, Automation (Learning phase 🚀)
+* **Tools:** Jira, Postman, SQL, Confluence
+* **Soft Skills:** Analytical thinking, Problem-solving, Clear documentation
+
+---
+
+### 📂 Featured Projects
+
+#### 🔍 [Manual Testing Portfolio](link-na-tvoj-repozitorij)
+*Comprehensive manual testing of a demo e-commerce application.*
+* **Deliverables:** Test Plan, Test Cases, and Bug Reports.
+* **Focus:** Critical user paths (Registration, Checkout, Search).
+
+#### 🤖 [Automation Practice](link-na-tvoj-repozitorij)
+*My journey into test automation.*
+* **Tools:** Selenium / Cypress (upiši ono što učiš).
+* **Goal:** Automating repetitive smoke tests to improve efficiency.
+
+---
+
+### 🐞 Bug Report Example
+*Ovdje je primjer kako pišem i dokumentiram bugove. Jasnoća je ključna!*
+
+| Field | Details |
+| :--- | :--- |
+| **Title** | [Login] Error message missing when entering invalid password |
+| **Severity** | Medium |
+| **Priority** | High |
+| **Environment** | Chrome v121.0, Windows 11 |
+
+**Steps to Reproduce:**
+1. Navigate to `https://test-site.com/login`
+2. Enter a valid email address.
+3. Enter an **incorrect** password.
+4. Click the "Login" button.
+
+**Expected Result:**
+System should display a red error message: *"Invalid username or password."*
+
+**Actual Result:**
+The page refreshes, but no error message is displayed. User is left confused.
+
+> 📸 *Note: In a real repository, I would attach a screenshot or a screen recording here.*
+
+---
+
+### 📈 What I'm working on
+* 🔭 Deepening my knowledge of **Test Automation frameworks**.
+* 🌱 Exploring **Accessibility (A11y) testing** to make apps inclusive.
+* 💬 Ask me about: My transition into QA or how I structure my test cases.
+
+---
+
+### 📫 Connect with me
+[LinkedIn](link-na-tvoj-linkedin) | [Email](mailto:tvoj-email@example.com)
+-->
 
 --- 
 Feel free to explore the repository and review the various sections to get a comprehensive view of my QA engineering skills and practices. If you have any questions or need further information, don’t hesitate to reach out!
