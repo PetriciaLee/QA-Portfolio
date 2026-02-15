@@ -40,14 +40,13 @@
 <!-- 
 <p> You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience. The CV is written in both Croatian and English.
 </p> <a href="https://drive.google.com/file/d/1J8OhayMeQCMhbuyn-t1cPdnog6BTUOX7/view?usp=sharing"> Resume </li>
-
+--> 
 **My Linkedin profile:** 
-https://www.linkedin.com/in/petra-jakopovic/ 
 <ul dir="auto">
 <li><a href="https://www.linkedin.com/in/petra-jakopovic/ "> Linkedin </li>
 </ul>
 
-
+<!--
 Što uključiti u QA Portfolio?
 Umjesto samo koda, dodaj ove odjeljke:
 
@@ -60,28 +59,7 @@ Test Cases: Pokaži da znaš napisati jasne korake za testiranje.
 Alati koje koristiš: npr. Jira, Postman, Selenium, Cypress, ili jednostavno "Manual Testing".
 
 
-Gemini said
-Hej Petra! Prvo, duboko udahni—sasvim je normalno osjećati se izgubljeno na GitHubu na početku. On je dizajniran za programere, pa QA stručnjaci često imaju osjećaj da tu ne pripadaju, ali zapravo je GitHub savršeno mjesto za tvoj portfolio.
-
 Evo konkretnih smjernica kako da od amaterke postaneš netko tko izgleda profesionalno i organizirano.
-
-1. Trebaš li mijenjati ime (Username)?
-Kratak odgovor: Ne moraš, ali možeš.
-
-PetriciaLee zvuči sasvim u redu i profesionalno. Na GitHubu ljudi često koriste pseudonime ili kombinacije imena.
-
-Što je važnije: U postavkama profila (Settings -> Public profile) podesi svoje pravo ime (Name): Petra [Prezime]. Tako će te regruteri naći po imenu, bez obzira na to što ti u URL-u piše PetriciaLee.
-
-Savjet: Ako se odlučiš na promjenu (npr. u petra-prezime), GitHub će automatski preusmjeriti tvoje stare poveznice, ali je ipak lakše to napraviti odmah dok još nemaš puno projekata.
-
-2. GitHub osnove (za preživljavanje)
-Ne moraš biti majstor terminala da bi koristila GitHub. Za početak, možeš sve raditi preko njihove web stranice (upload datoteka), ali nauči ove tri riječi:
-
-Repository (Repo): To je kao "folder" za tvoj projekt.
-
-Commit: To je "Save" tipka, ali s porukom što si promijenila.
-
-README.md: To je naslovna stranica tvog projekta koju svi vide.
 
 3. Kako napisati ubojiti QA README?
 Regruteri ne žele vidjeti samo kod; oni žele vidjeti kako razmišljaš. Tvoj README bi trebao biti struktuiran ovako:
@@ -153,31 +131,37 @@ Testiranje REST API-ja za javno dostupne servise.
 
 Posebnost: Napisane automatske skripte (Tests tab u Postmanu) za provjeru statusnih kodova i JSON response sheme.
 
-
+-->
 --- 
 <div align="center">
 <h2> Skills </h2> 
 
 ![Cypress](https://img.shields.io/badge/-Cypress-222222?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-222222?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=for-the-badge&logo=selenium&logoColor=white)
+
+<!--
+![Playwright](https://img.shields.io/badge/-Playwright-222222?style=for-the-badge&logo=playwright&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-222222?style=for-the-badge&logo=junit5&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-222222?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-222222?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-222222?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-222222?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=for-the-badge&logo=docker&logoColor=white)
+-->
 
 <br />
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-222222?style=for-the-badge&logo=github-actions&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-222222?style=for-the-badge&logo=html5&logoColor=white)
+
+<!--
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=openjdk&logoColor=white)
+-->
 
 </div>
 ### About me ###
@@ -191,8 +175,8 @@ Posebnost: Napisane automatske skripte (Tests tab u Postmanu) za provjeru status
 I’m a QA engineer with over 1+ years of experience testing web and mobile apps. I like breaking things (in a good way), figuring out why they’re broken, and working with teams to make them better. I’ve done a bit of everything — from functional, automated, and performance testing to building out test strategies and frameworks. I enjoy turning requirements into clear test plans and finding the issues that really matter before users ever see them. At the end of the day, I care about quality and I enjoy learning new tools and approaches to keep improving how I work. </p>
  ---
 ## Tools 
-- Jira, Trello - project management
-- Confluence - storing informations and documents about project
+- Jira, Trello - project management 
+<!-- - Confluence - storing informations and documents about project -->
 - qTest - bug tracking
 - Slack - communication within the team
 - Chrome Devtools - for better testing and improving bug reports
@@ -202,21 +186,23 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 - Markdown - for better and easy formatting GitHub
 - Xampp - practicing SQL
 - Postman - API testing
-- Pycharm - IDE for Python
 - Selenium
-- Robot framework
 - Visual Studio Code - practicing HTML and CSS
+
+
+<!-- - Pycharm - IDE for Python 
+- Robot framework
 - Zephyr
 - Kibana
 - TeamCity
 - SSMS
+-->
 
   ---
 
 ## Tech skills 
 - SQL
 - Rest API testing
-- ISTQB Foundation Level knowledge
 - Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 - Software testing
 - Creating test cases
@@ -225,10 +211,14 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 - Basic Python - for test automation
 - Basic HTML and CSS
 - Creating documentation
-- Experience with testing SaaS web applications
 - Performing smoke tests
+<!--
 - Testing UAT
 - Scrum workflow
+- ISTQB Foundation Level knowledge
+- Experience with testing SaaS web applications
+
+-->
  ---
 ## Soft skills 📁 
 - precision
@@ -238,7 +228,7 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 - empathy
 
 
-
+<!--
 Courses 📓
 QA Training + PORTFOLIO
 DareIT Challenge - automated tests + Python PORTFOLIO
@@ -249,16 +239,14 @@ CherryIT COLT 2/2023 - Git - PORTFOLIO
 Fundamentals of manual software testing
 SQL training in 120 minutes
 Postman - REST API testing
-
-
-
+-->
 
 ---
 <div align="center">
 ## ⚡ Featured Projects
 
 ---
-
+<!--
 - 1. Ljetna akademija KING ICT 2023
 - Test plan
 - Test cases
@@ -306,7 +294,7 @@ https://musicforprogramming.net/latest/
 
 <!--
 napravi "dummy" projekte na javnim stranicama (npr. SauceDemo, OpenCart ili čak Njuškalo).
-
+--> 
 
 # Hi, I'm Petra! 👋
 **Junior QA Engineer @ KING ICT**
