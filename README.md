@@ -28,13 +28,16 @@
                                                                                            
 
 ```
-# ⚠️🚧🛠️ STILL IN PROGRESS!!! 
+### ⚠️🚧🛠️ STILL IN PROGRESS!!! 
 
-## {QA Portfolio} 
-### 👋 Hi there, I'm Petra! 
+**Junior QA Engineer @ KING ICT**
+
+I’m a QA enthusiast dedicated to making the digital world more welcoming and high-quality. With over a year of professional experience in testing web and mobile apps, I bridge the gap between user needs and technical excellence.
+
+---
 
 <h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
---- 
+ 
 
 ## Resume
 <!-- 
@@ -164,30 +167,37 @@ Posebnost: Napisane automatske skripte (Tests tab u Postmanu) za provjeru status
 -->
 
 </div>
-### About me ###
+
+### About me 
 <p> Hi, my name is Petra, QA enthusiast. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area. 
 <br>
  ---
 
 ## My experience
 <p>Being a junior software tester at KING ICT is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. 
+  
 <br>
+  
 I’m a QA engineer with over 1+ years of experience testing web and mobile apps. I like breaking things (in a good way), figuring out why they’re broken, and working with teams to make them better. I’ve done a bit of everything — from functional, automated, and performance testing to building out test strategies and frameworks. I enjoy turning requirements into clear test plans and finding the issues that really matter before users ever see them. At the end of the day, I care about quality and I enjoy learning new tools and approaches to keep improving how I work. </p>
- ---
+
+--- 
+
+ 
+ <!-- - Confluence - storing informations and documents about project -->
+
 ## Tools 
-- Jira, Trello - project management 
-<!-- - Confluence - storing informations and documents about project -->
-- qTest - bug tracking
-- Slack - communication within the team
-- Chrome Devtools - for better testing and improving bug reports
-- Google Drive - storing data
-- Git - for better work in development team and controlling software versions
-- GitHub - supporting Git and preparing my repositories
-- Markdown - for better and easy formatting GitHub
-- Xampp - practicing SQL
-- Postman - API testing
-- Selenium
-- Visual Studio Code - practicing HTML and CSS
+- Jira, Trello - project management <br>
+- qTest - bug tracking <br>
+- Slack - communication within the team <br>
+- Chrome Devtools - for better testing and improving bug reports <br>
+- Google Drive - storing data <br>
+- Git - for better work in development team and controlling software versions <br>
+- GitHub - supporting Git and preparing my repositories <br>
+- Markdown - for better and easy formatting GitHub <br>
+- Xampp - practicing SQL <br>
+- Postman - API testing <br>
+- Selenium <br>
+- Visual Studio Code - practicing HTML and CSS <br>
 
 
 <!-- - Pycharm - IDE for Python 
@@ -296,12 +306,7 @@ https://musicforprogramming.net/latest/
 napravi "dummy" projekte na javnim stranicama (npr. SauceDemo, OpenCart ili čak Njuškalo).
 --> 
 
-# Hi, I'm Petra! 👋
-**Junior QA Engineer @ KING ICT**
 
-I’m a QA enthusiast dedicated to making the digital world more welcoming and high-quality. With over a year of professional experience in testing web and mobile apps, I bridge the gap between user needs and technical excellence.
-
----
 
 ### 🛠️ Tech Stack & Tools
 * **Testing:** Manual (Functional, Regression, UI/UX), API Testing, Automation (Learning phase 🚀)
@@ -359,7 +364,6 @@ The page refreshes, but no error message is displayed. User is left confused.
 
 ### 📫 Connect with me
 [LinkedIn](link-na-tvoj-linkedin) | [Email](mailto:tvoj-email@example.com)
--->
 
 --- 
 Feel free to explore the repository and review the various sections to get a comprehensive view of my QA engineering skills and practices. If you have any questions or need further information, don’t hesitate to reach out!
