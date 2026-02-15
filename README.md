@@ -29,17 +29,15 @@
 
 ```
 ### ⚠️🚧🛠️ STILL IN PROGRESS!!! 
+<h3 align="center"> Petra Jakopović </h3>
 
 **Junior QA Engineer @ KING ICT**
 
 I’m a QA enthusiast dedicated to making the digital world more welcoming and high-quality. With over a year of professional experience in testing web and mobile apps, I bridge the gap between user needs and technical excellence.
 
----
+--- 
 
-<h3 align="center"> Working on projects pretty much every year, say hi 🤗 </h3>
- 
-
-## Resume
+### Resume
 <!-- 
 <p> You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience. The CV is written in both Croatian and English.
 </p> <a href="https://drive.google.com/file/d/1J8OhayMeQCMhbuyn-t1cPdnog6BTUOX7/view?usp=sharing"> Resume </li>
@@ -170,8 +168,8 @@ Posebnost: Napisane automatske skripte (Tests tab u Postmanu) za provjeru status
 
 ### About me 
 <p> Hi, my name is Petra, QA enthusiast. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area. 
-<br>
- ---
+
+--- 
 
 ## My experience
 <p>Being a junior software tester at KING ICT is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. 
@@ -252,10 +250,10 @@ Postman - REST API testing
 -->
 
 ---
-<div align="center">
+<!-- <div align="center"> -->
 ## ⚡ Featured Projects
 
----
+Comming soon..
 <!--
 - 1. Ljetna akademija KING ICT 2023
 - Test plan
@@ -306,7 +304,7 @@ https://musicforprogramming.net/latest/
 napravi "dummy" projekte na javnim stranicama (npr. SauceDemo, OpenCart ili čak Njuškalo).
 --> 
 
-
+---
 
 ### 🛠️ Tech Stack & Tools
 * **Testing:** Manual (Functional, Regression, UI/UX), API Testing, Automation (Learning phase 🚀)
@@ -324,13 +322,13 @@ napravi "dummy" projekte na javnim stranicama (npr. SauceDemo, OpenCart ili čak
 
 #### 🤖 [Automation Practice](link-na-tvoj-repozitorij)
 *My journey into test automation.*
-* **Tools:** Selenium / Cypress (upiši ono što učiš).
+* **Tools:** Selenium / Cypress <!-- (upiši ono što učiš). -->
 * **Goal:** Automating repetitive smoke tests to improve efficiency.
 
 ---
 
 ### 🐞 Bug Report Example
-*Ovdje je primjer kako pišem i dokumentiram bugove. Jasnoća je ključna!*
+<!-- *Ovdje je primjer kako pišem i dokumentiram bugove. Jasnoća je ključna!* -->
 
 | Field | Details |
 | :--- | :--- |
@@ -363,7 +361,7 @@ The page refreshes, but no error message is displayed. User is left confused.
 ---
 
 ### 📫 Connect with me
-[LinkedIn](link-na-tvoj-linkedin) | [Email](mailto:tvoj-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/petra-jakopovic/) | [Email](mailto:petra-jakopovi@gmail.com)
 
 --- 
 Feel free to explore the repository and review the various sections to get a comprehensive view of my QA engineering skills and practices. If you have any questions or need further information, don’t hesitate to reach out!
