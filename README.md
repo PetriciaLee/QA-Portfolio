@@ -229,11 +229,11 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 -->
  ---
 ## Soft skills 📁 
-- precision
-- communication
-- assertiveness
-- patience
-- empathy
+- Precision
+- Communication
+- Assertiveness
+- Patience
+- Empathy
 
 
 <!--
