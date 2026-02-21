@@ -253,7 +253,7 @@ Postman - REST API testing
 <!-- <div align="center"> -->
 ## ⚡ Featured Projects
 
-Comming soon..
+Comming soon...
 <!--
 - 1. Ljetna akademija KING ICT 2023
 - Test plan
