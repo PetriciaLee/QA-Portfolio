@@ -30,12 +30,12 @@ I’m a QA enthusiast dedicated to making the digital world more welcoming and h
 <p> You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience. The CV is written in both Croatian and English.
 </p> <a href="https://drive.google.com/file/d/1J8OhayMeQCMhbuyn-t1cPdnog6BTUOX7/view?usp=sharing"> Resume </li>
 --> 
-### My LinkedIn profile: 
+## My LinkedIn profile: 
 <ul dir="auto">
 <li><a href="https://www.linkedin.com/in/petra-jakopovic/ "> LinkedIn </li>
 </ul>
 
-### Quick Portfolio
+## Quick Portfolio
 
 - Canva Presentation (link coming coon...)
 
@@ -187,7 +187,7 @@ I’m a QA engineer with over 1+ years of experience testing web and mobile apps
 - Xampp - practicing SQL <br>
 - Postman - API testing <br>
 - Selenium <br>
-- Visual Studio Code - practicing HTML and CSS <br>
+- Visual Studio Code - practicing HTML and CSS (C and C++ too) <br>
 
 
 <!-- - Pycharm - IDE for Python 
